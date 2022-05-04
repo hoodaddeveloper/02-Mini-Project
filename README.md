@@ -1,2 +1,2 @@
-# 2_Mini_Project_2
+# 2nd_Mini_Project
 My second mini Project for practicing html/css
