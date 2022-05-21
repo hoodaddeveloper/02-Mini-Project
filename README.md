@@ -1,2 +1,2 @@
-# 02_Mini_Project
+# 02-Mini-Project
 My second mini Project for practicing HTML/CSS in 2021.
